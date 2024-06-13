@@ -1,3 +1,4 @@
+// Write a Program to Sum three Numbers in Java entered by user
 import java.util.Scanner;
 
 public class Set1_1 {
