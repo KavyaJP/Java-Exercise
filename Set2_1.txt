@@ -1,0 +1,9 @@
+Que : What will be the result of the following expression : float a = 7/4 * 9/2
+Ans : here 7, 4, 9 and 2 are all int literals so all operation between them will give a int value
+      / and * have both same precedence
+      so the associativity would be left to right
+         7/4 = 1 
+      => 1*9/2
+      => 9/2
+      => 4
+      and 4 in float is 4.0
