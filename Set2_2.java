@@ -12,5 +12,6 @@ public class Set2_2 {
         System.out.println("Your Encrypted grade is : " + grade);
         grade = (grade / 3) - 8;
         System.out.println("Your Grade is : " + grade);
+        s.close();
     }
 }
